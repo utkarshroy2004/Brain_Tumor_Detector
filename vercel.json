@@ -6,8 +6,7 @@
       "use": "@vercel/python",
       "config": {
         "maxDuration": 30,
-        "memory": 3008,
-        "requirementsFile": "requirements_vercel.txt"
+        "memory": 3008
       }
     }
   ],
